@@ -1,0 +1,105 @@
+.simply{
+    background-image: url('http://tong.visitkorea.or.kr/cms/resource_etc/63/2701563_image_1.jpg');
+    /* background-position: 100%;
+    background-size: cover;
+    width: auto;
+    height: 100%; */
+    height: 300px;
+    margin: 120px 150px 15px;
+    object-fit: cover;
+    
+}
+h1{
+    color: white;
+    margin-left: 400px; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large ;
+    letter-spacing: 3px;
+}
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+    background-color: greenyellow;
+    height: 70px;
+}
+header a{
+    color: black;
+}
+
+.btn{ 
+    background-color:darkviolet;
+    color: white;
+    border-radius: 5px;
+    border-color: aliceblue;
+    width: 75px;
+    height: 30px;
+}
+#home li{
+    display: inline;
+    padding: 40px;
+    width: 50%;
+    height: 50%;
+    margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 100;
+    font-size: large;
+
+}
+#home {
+    text-align: center;
+    margin: 30px auto;
+}
+ h5{
+    margin-left: 450px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    
+}
+ul{
+    margin-left: 150px;
+
+}
+h4{
+    margin-left: 190px;
+}
+.food{
+    margin-top: 20px;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2px 200px;
+    padding: 30px;
+
+}
+
+.photo{
+    max-width: 31.333%;
+    padding: 0 10px;
+    height: 240px;
+    margin: 2px 2px;
+}
+.photo img{
+    width: 100%;
+    height: 100%;
+}
+#pilau{
+    margin-top: 80px;
+}
+#chapo{
+    margin-top: 80px;
+}
+#chicken{
+    margin-top: 80px;
+}
+p{
+    font-family: 'Radio Canada', sans-serif;
+    
+}
+p a{
+    color: black;
+    
+}
